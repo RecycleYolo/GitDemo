@@ -19,6 +19,7 @@ public class AbstractComponents {
 	//use this as parent class
 	//lets place a chnage for git in this file
 	//lets place a chnage for git in this file to branch check
+	//lets place a chnage for git in this file to branch check - number 2 test
 	WebDriver driver;
 	
 	public AbstractComponents(WebDriver driver) {
